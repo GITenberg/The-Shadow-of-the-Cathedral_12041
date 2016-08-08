@@ -1,0 +1,46 @@
+_repo: The-Shadow-of-the-Cathedral_12041
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+  translator:
+    agent_name: Gillespie, W. A., Mrs.
+    alias: Gillespie, Mrs. W. A.
+    gutenberg_agent_id: '5111'
+    url: http://www.gutenberg.org/2009/agents/5111
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: With a critical introduction by W.D. Howells
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toledo (Spain) -- Fiction'
+- !lcsh 'Blasco Ibáñez, Vicente, 1867-1928 -- Criticism and interpretation'
+- !lcc 'PQ'
+- !lcsh 'Catedral de Toledo -- Fiction'
+- GITenberg
+title: The Shadow of the Cathedral
+url: http://www.gutenberg.org/ebooks/12041
