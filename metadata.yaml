@@ -1,5 +1,5 @@
 _repo: The-Shadow-of-the-Cathedral_12041
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Howells, William Dean
@@ -16,6 +16,9 @@ contributor:
     alias: Gillespie, Mrs. W. A.
     gutenberg_agent_id: '5111'
     url: http://www.gutenberg.org/2009/agents/5111
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: With a critical introduction by W.D. Howells
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12041#The-Shadow-of-the-Cathedral
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
